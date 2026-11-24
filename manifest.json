@@ -13,7 +13,7 @@
         "changelog": "Upstream 2.0.1 rebuilt against Jellyfin.Controller 12.1.0 (upstream pins 12.4, which a 12.1 server refuses to load). No code changes.",
         "targetAbi": "12.1.0.0",
         "sourceUrl": "https://github.com/herobrauni/watchsync/releases/download/v2.1.0/watchsync-2.1.0.0.zip",
-        "checksum": "2AA632E2FB9BCF8A40EE5B67641FC7C3",
+        "checksum": "415BE05CD2288CAE7E3E6AC261B8A378",
         "timestamp": "2026-11-23T00:00:00.0000000Z"
       }
     ]
